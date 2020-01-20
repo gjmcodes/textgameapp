@@ -1,0 +1,11 @@
+{
+    "defaultProject": "policelife",
+    "projects": {
+      "policelife": {
+        "name": "Police Life",
+        "integrations": {},
+        "type": "angular",
+        "root": "apps/policelifeapp"
+      }
+    }
+  }
